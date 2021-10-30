@@ -1,0 +1,63 @@
+{
+  "folders": [
+	{
+		"path": "../../../../../../opt/lampp/htdocs/Android"
+	},
+	{
+		"path": "../../../../../../opt/lampp/htdocs/seminar"
+	},
+	{
+		"path": "../../../../../../opt/lampp/htdocs/test-pu2"
+	},
+	{
+		"path": "../../../../../../opt/lampp/htdocs/botoko"
+	},
+	{
+		"path": "../../../../../../opt/lampp/htdocs/laravel"
+	},
+	{
+		"path": "../../../../../../opt/lampp/htdocs/ci4-app"
+	},
+	{
+		"path": "../../../../train"
+	},
+	{
+		"path": "../../../../Documents/CV online"
+	},
+	{
+		"path": "../../../../Videos/codeigniter4/sekolah"
+	},
+	{
+		"path": "../../../../Django/djstudent"
+	},
+	{
+		"path": "../../../../../../opt/lampp/htdocs/ppdb"
+	},
+	{
+		"path": "../../../../../../opt/lampp/htdocs/bis"
+	},
+	{
+		"path": "../../../../Desktop/public"
+	},
+	{
+		"name": "my-qls",
+		"path": "../.."
+	},
+	{
+		"path": "../../../../Downloads/react"
+	},
+	{
+		"path": "../../../../Downloads/login-react"
+	},
+	{
+		"path": "../../../../Downloads/auth-api-nodejs"
+	},
+	{
+		"name": "SSH FS - app-dqakses",
+		"uri": "ssh://app-dqakses/"
+	}
+],
+  "settings": {
+    "git.ignoreLimitWarning": true
+  }
+}
